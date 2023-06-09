@@ -2,3 +2,5 @@ notebook
 ipywidgets
 tqdm
 python-dotenv
+chainlit
+openai
